@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.cardo {
+
+    background-color: rgb(243, 243, 190) !important;
+
+}
+
+.cardo:hover {
+    box-shadow: 8px 8px 5px 5px !important;
+}
+
+.card-img-top {
+    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+    background-color: aqua !important;
+
+}
+
+.imgo {
+    clip-path: polygon(50% 0%, 80% 10%, 100% 35%, 100% 70%, 80% 90%, 50% 100%, 20% 90%, 0% 70%, 0% 35%, 20% 10%);
+    box-shadow: 10px 10px 8px 8px;
+}
+
+.cardt {
+    background-color: rgb(243, 243, 190) !important;
+    box-shadow: 10px 10px 8px 8px;
+}
+
+.imgt {
+    clip-path: polygon(50% 0%, 83% 12%, 100% 43%, 94% 78%, 68% 100%, 32% 100%, 6% 78%, 0% 43%, 17% 12%);
+    background-color: black !important;
+}
+
+.cardth {
+    background-color: rgb(243, 243, 190) !important;
+    box-shadow: 10px 10px 8px 8px;
+}
+
+.imgth {
+    clip-path: polygon(50% 0%, 83% 12%, 100% 43%, 94% 78%, 68% 100%, 32% 100%, 6% 78%, 0% 43%, 17% 12%);
+    background-color: black !important;
+}
+
+.cardf {
+    background-color: rgb(128, 118, 118) !important;
+
+}
+
+.cardf:hover {
+    box-shadow: 8px 8px 5px 5px;
+}
+
+.cardfi {
+    background-color: rgb(63, 228, 240) !important;
+}
+
+.cardfi:hover {
+    box-shadow: 8px 8px 5px 5px;
+}
